@@ -1,5 +1,5 @@
 /*===================================================
-Project: mixfolio | personal portfolio HTML website template   
+Project: mixfolio | personal portfolio HTML website template
 Auther: ERRAMIX
 Version: 1.0
 ====================================================*/
@@ -490,6 +490,10 @@ img {
 
 .hero .container>* {
   position: relative;
+}
+
+.profile-photo img {
+  border-radius: 5px;
 }
 
 /*================== end hero section =====================*/
