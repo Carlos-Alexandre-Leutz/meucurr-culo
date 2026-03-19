@@ -1,66 +1,65 @@
 -----
 
-# 🚀 Full-Stack Development | Software Engineering & Mentorship
+# 🚀 Professional Portfolio & Resume Repository
 
-Welcome\! I am **Alexandre Leutz**, a **Senior Full-Stack Developer** with 7 years of experience crafting scalable digital solutions. This repository serves as a professional showcase of my technical expertise and my commitment to the developer community through educational content.
-
------
-
-## 🔗 Quick Links
-
-  * **Live Portfolio/Resume:** [carlos-alexandre-leutz.github.io/meucurr-culo/](https://carlos-alexandre-leutz.github.io/meucurr-culo/)
-  * **YouTube Channel:** [Your Channel Link Here]
-  * **LinkedIn:** [Your LinkedIn Profile]
+This repository hosts my official professional portfolio and interactive resume, showcasing my journey, technical expertise, and the projects I’ve architected over the years.
 
 -----
 
-## 👨‍💻 Professional Profile
+## 🌐 Live Portfolio
 
-With a solid background in **Systems Analysis** and a Post-graduate degree in **Digital Product Management**, I specialize in building high-performance applications from MVPs to complex legacy migrations.
-
-  * **Expertise:** Front-end (**Vue.js 2/3, React, Angular**) and Back-end (**PHP Laravel, Chttps://www.google.com/search?q=%23, Node.js**).
-  * **Methodology:** Strong advocate for **Clean Code**, **Scrum**, and **SOLID** principles to ensure low bug rates and maintainable architecture.
-  * **Infrastructure:** Experienced with **Docker**, **SQL Databases**, and automated CI/CD workflows.
-  * **Current Focus:** Leading educational systems with a focus on tech-stack updates and performance optimization.
+**Access the interactive version here:** 👉 **[carlos-alexandre-leutz.github.io/meucurr-culo/](https://carlos-alexandre-leutz.github.io/meucurr-culo/)**
 
 -----
 
-## 📺 Educational Series: Git & GitHub Mastery
+## 👨‍💻 Alexandre Leutz | Senior Full-Stack Developer
 
-This repository is the official home for the code and guides featured on my YouTube channel. I believe that **seniority is also about lifting others up**.
+### **7+ Years of Experience | Software Architecture | Product Management**
 
-### 🎓 Featured Lessons:
+I am a **Senior Full-Stack Developer** dedicated to building high-performance, scalable digital solutions. With a solid foundation in **Systems Analysis** and a Post-graduate degree in **Digital Product Management**, I bridge the gap between complex engineering and business strategy.
 
-  * **[Git, GitHub & Gitflow for Beginners](https://www.youtube.com/watch?v=WXEu_tAcw00)** – Mastering professional branching strategies.
-  * **[GitHub Pages Tutorial 2026](https://www.youtube.com/watch?v=Gc-KBf5srrY)** – Hosting sites for free with professional standards.
-  * **[Custom Domains on GitHub](https://www.youtube.com/watch?v=umX0lhZRoe0)** – Fast and professional DNS configuration.
-  * **[GitHub for Beginners](https://www.youtube.com/watch?v=BUGZZaChiYw)** – The essential guide for every modern developer.
+### 🌟 Key Expertise:
+
+  * **Front-end Mastery:** Expert in **JavaScript** with deep proficiency in **Vue.js (2 & 3), React, and Angular**.
+  * **Robust Back-end:** Strong background in **PHP (Laravel), C\# (.NET), and Node.js**.
+  * **Quality & Maintenance:** Firm advocate for **Clean Code** and **SOLID** principles, consistently delivering systems with low bug rates and high maintainability.
+  * **Agile Leadership:** Experienced in **Scrum** methodologies, currently leading educational systems with a focus on performance and technological updates.
 
 -----
 
 ## 🛠 Technical Toolkit
 
-| Category | Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Front-end** | Vue.js (2/3), React, Angular, JavaScript (ES6+) |
-| **Back-end** | PHP (Laravel), Chttps://www.google.com/search?q=%23 (.NET), Node.js (v20+) |
-| **DevOps & Tools** | Docker, Gitflow, Linux (Kernel 6.17+), SQL |
-| **Management** | Agile/Scrum, Product Management (GPD), Software Architecture |
+| **Front-end** | Vue.js (2/3), React, Angular, JavaScript (ES6+), HTML5/CSS3 |
+| **Back-end** | PHP (Laravel), C\# (.NET Core), Node.js, SQL Databases |
+| **DevOps & Infra** | **Docker**, Linux Environments (Kernel 6.17+), Gitflow, CI/CD |
+| **Management** | **Agile/Scrum**, Digital Product Management (GPD), Software Architecture |
 
 -----
 
-## 📂 Highlighted Projects
+## 🎓 Education & Background
 
-  * **[SaaS Business Manager](https://www.google.com/search?q=%23):** A full-scale project demonstrating complex business logic and Node.js architecture.
-  * **[Interactive Resume](https://carlos-alexandre-leutz.github.io/meucurr-culo/):** My professional journey built with clean code and modern web standards.
+  * **Post-graduate Degree:** Digital Product Management.
+  * **B.S. in Systems Analysis and Development.**
+  * **Specialization:** Advanced Software Architecture and Legacy System Modernization.
+
+-----
+
+## 📂 Featured Focus
+
+  * **SaaS Business Manager:** Architecting high-scale business logic and management solutions.
+  * **Educational Tech:** Leading platforms focused on high availability and user experience (UX).
+  * **Legacy Migrations:** Proven track record of successfully migrating complex systems to modern stacks.
 
 -----
 
 ## 🤝 Let's Connect
 
-Whether you are a recruiter looking for a seasoned engineer or a developer looking to learn:
+I am always open to discussing high-impact projects and remote opportunities worldwide.
 
+  * **LinkedIn:** [https://www.linkedin.com/in/carlos-alexandre-leutz-1b1516185/]
   * **Email:** [leutzeleutz@gmail.com]
-  * **Location:** Brazil (Available for Global Remote Work)
+  * **GitHub:** [@carlos-alexandre-leutz](https://www.google.com/search?q=https://github.com/carlos-alexandre-leutz)
 
 -----
